@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Datepicker_Ticket.com</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6896b7f-fed4-437b-9700-7240df834013</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9c59690-18ea-4e9e-92f1-a5d2671b1fe2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'15-Desember-2022'</defaultValue>
+      <description></description>
+      <id>f9c59690-18ea-4e9e-92f1-a5d2671b1fe2</id>
+      <masked>false</masked>
+      <name>start_date</name>
+   </variable>
+</TestCaseEntity>

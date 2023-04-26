@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>split string</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09a7c481-6cd6-4496-aaca-25d09d677ec9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84090f10-5f54-42d7-834a-db99f8b30a87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hello World'</defaultValue>
+      <description></description>
+      <id>84090f10-5f54-42d7-834a-db99f8b30a87</id>
+      <masked>false</masked>
+      <name>str</name>
+   </variable>
+</TestCaseEntity>

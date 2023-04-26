@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Datepicker_Spicejet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9d19c50-1226-4fd9-9de8-21498911ef0f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7bb1a2c7-af1b-4383-a487-d12fc9b238aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'15-January-2023'</defaultValue>
+      <description></description>
+      <id>7bb1a2c7-af1b-4383-a487-d12fc9b238aa</id>
+      <masked>false</masked>
+      <name>start_date</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Tiket.com/month_year",
+      "brokenLocator": "id(\"app\")/main[1]/div[@class\u003d\"landing-desktop\"]/div[@class\u003d\"hero-section\"]/div[@class\u003d\"widget-container\"]/div[@class\u003d\"widget-hotel\"]/div[@class\u003d\"widget-section\"]/div[@class\u003d\"widget-section-item section-center\"]/div[@class\u003d\"staying-date-input-wrapper\"]/div[@class\u003d\"widget-input\"]/div[@id\u003d\"checkinDate\"]/div[@class\u003d\"widget-popup\"]/div[@class\u003d\"content\"]/div[@class\u003d\"popup-content\"]/div[@class\u003d\"date-range-popup-container\"]/div[@class\u003d\"range-picker start\"]/div[1]/div[@class\u003d\"react-swipeable-view-container\"]/div[1]/div[@class\u003d\"DayPicker\"]/div[@class\u003d\"DayPicker-wrapper\"]/div[@class\u003d\"DayPicker-Months\"]/div[@class\u003d\"DayPicker-Month\"]/div[@class\u003d\"DayPicker-Caption\"]/div[1]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "/html/body/div[3]/main/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/div[2]/div/div/div/div/div/div[1]/div/div/div[1]/div/div[2]/div[1]/div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Tiket.com/month_year_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Traveloka/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.css-1dbjc4n.r-1awozwy.r-1loqt21.r-1472mwg.r-1777fci.r-1otgn73.r-1i6wzkk.r-lrvibr.r-lrsllp \u003e svg \u003e path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Traveloka/path_CSS.png"
+    }
+  ]
+}

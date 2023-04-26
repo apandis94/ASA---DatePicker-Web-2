@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Pilihan Kami Untukmu</name>
+   <tag></tag>
+   <elementGuidId>5417f099-5ae1-4a34-879b-308e01ffe097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div[2]/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.section-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>ceca4d1d-b84a-46c5-9956-8e6b26159eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>58e19ea2-f925-4ccb-86eb-8ef622179c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilihan Kami Untukmu</value>
+      <webElementGuid>303348b6-6314-4719-9a4e-8d03dd66a892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/div[@class=&quot;landing-desktop&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;section landing-top-picks-desktop&quot;]/div[@class=&quot;top-picks-head&quot;]/h4[@class=&quot;section-title&quot;]</value>
+      <webElementGuid>3e152092-3024-4090-a1c2-0198e3deca6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div[2]/div/div/h4</value>
+      <webElementGuid>b9d0b1df-d268-4a1a-b473-c06dd9585d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Hotel'])[1]/following::h4[1]</value>
+      <webElementGuid>2cd31b78-7e97-4d76-aaf9-c1fed0191cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/following::h4[1]</value>
+      <webElementGuid>2b941d42-0e65-4cac-a993-4abfe64cd76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properti di Bali'])[1]/preceding::h4[1]</value>
+      <webElementGuid>46e9274a-b2d6-4bb6-ad68-f5f12cd99789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properti di Jakarta'])[1]/preceding::h4[1]</value>
+      <webElementGuid>09a2ebac-5c48-466d-af91-8d4ce7b3fde5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilihan Kami Untukmu']/parent::*</value>
+      <webElementGuid>b7d4b3e1-bc34-4434-a837-93fef604e0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>fcff7001-132d-42af-8c42-c7fe6e8e4eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Pilihan Kami Untukmu' or . = 'Pilihan Kami Untukmu')]</value>
+      <webElementGuid>19f68247-4667-419b-b3f4-29cdf7ffc858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

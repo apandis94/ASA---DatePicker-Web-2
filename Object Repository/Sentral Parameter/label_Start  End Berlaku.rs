@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Start  End Berlaku</name>
+   <tag></tag>
+   <elementGuidId>2245228a-2f0b-4518-b34f-375feb01d26e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div/div[16]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ddfb39c9-57c3-45a7-b60c-1658dee2534a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>jenisKendaraan</value>
+      <webElementGuid>4e067b30-da72-4c03-b514-1ab60a01881f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-3 control-label</value>
+      <webElementGuid>7ef4b512-1d4b-4f7e-a09c-3322d2e18dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start &amp; End Berlaku</value>
+      <webElementGuid>92d2b360-e7ef-4ab1-88a9-1c4746cc70b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;form-group required&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-sm-3 control-label&quot;]</value>
+      <webElementGuid>4e26c971-49cd-43bf-b968-cd692e099e0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div/div[16]/label</value>
+      <webElementGuid>19404214-0d98-4710-ab55-0d549745e0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[10]/following::label[1]</value>
+      <webElementGuid>9c5b928a-ec87-4979-9087-201d0fed4784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenor 10'])[1]/following::label[1]</value>
+      <webElementGuid>d9555bd2-7e0c-46bd-a71e-ffacd99d619d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::label[1]</value>
+      <webElementGuid>ebdbe4c8-0353-4446-a12d-f484a4584478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::label[2]</value>
+      <webElementGuid>e4e3b51b-3511-416a-b152-4467c24662f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start &amp; End Berlaku']/parent::*</value>
+      <webElementGuid>f8c6a99d-f612-4d64-a270-89da256d30b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/label</value>
+      <webElementGuid>19231287-3fe9-482b-bbc5-89fd16724d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Start &amp; End Berlaku' or . = 'Start &amp; End Berlaku')]</value>
+      <webElementGuid>85ddb567-2278-4a03-b2ac-d34a1207906b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Biaya Admin</name>
+   <tag></tag>
+   <elementGuidId>af2207c2-bc9c-417e-a525-5e2c03143dcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@id='top-menu']/b)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>dbddce5f-6d07-456b-8643-0bed56339e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Biaya Admin</value>
+      <webElementGuid>72adb924-e8ee-4a33-9c82-fd6579b34613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;kontentop&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;menu&quot;]/table[1]/tbody[1]/tr[3]/td[@id=&quot;top-menu&quot;]/b[1]</value>
+      <webElementGuid>d559a4b3-2504-4fb4-a7b5-1137bbbac9e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//td[@id='top-menu']/b)[3]</value>
+      <webElementGuid>cfd8cf68-c5cc-4906-8146-03653fc17c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::b[1]</value>
+      <webElementGuid>edbc4ac7-431b-4c96-9d03-37c8507c7f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::b[1]</value>
+      <webElementGuid>ed3fc6b0-5717-4927-859b-b799164823cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Biaya Admin'])[1]/preceding::b[1]</value>
+      <webElementGuid>64df9113-4a01-49cd-a461-a3edd7dbb4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Biaya Admin'])[1]/preceding::b[1]</value>
+      <webElementGuid>e5a223fc-9e72-4dad-b5d9-0cd16b3275f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Biaya Admin']/parent::*</value>
+      <webElementGuid>9559ba9c-9c99-40ad-a1d9-6ee61bce1f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/b</value>
+      <webElementGuid>8b5ca277-386d-4a11-9c1a-635af3276ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Biaya Admin' or . = 'Biaya Admin')]</value>
+      <webElementGuid>19ca65ab-07c9-4e64-9b22-8a79a8be6fa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

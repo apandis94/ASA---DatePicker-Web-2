@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Insert Biaya Admin</name>
+   <tag></tag>
+   <elementGuidId>3697097c-d0db-47ce-989b-d8d8e05b025c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='bawah2']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bawah2 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b58210cc-8dd9-4766-8c3f-0fcb07f82bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://192.168.29.42/SentralParam/biaya-admin</value>
+      <webElementGuid>5d00609e-4f24-4c51-b991-fbbb20b09d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insert Biaya Admin</value>
+      <webElementGuid>edee2bbf-7a3b-4743-9267-0cf205eef60e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bawah2&quot;)/a[1]</value>
+      <webElementGuid>fb410fb4-5b89-4f26-8690-762bb3af3f83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='bawah2']/a</value>
+      <webElementGuid>98984e83-05af-4685-b993-5110cbcbe7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Insert Biaya Admin')]</value>
+      <webElementGuid>243db9d3-98b0-45d7-8cf0-59771c4a4c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya Admin'])[1]/following::a[1]</value>
+      <webElementGuid>e48ba79b-4a86-48c8-b8c3-d45b023a66c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[1]</value>
+      <webElementGuid>4617e9a8-52b8-4dc4-b5c5-3ad2bf46a7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Biaya Admin'])[1]/preceding::a[1]</value>
+      <webElementGuid>801501cd-017f-47d0-a41c-741e649801ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya Fidusia'])[1]/preceding::a[2]</value>
+      <webElementGuid>d9f24e2b-62b5-4925-8fe4-ed601f8c2e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Insert Biaya Admin']/parent::*</value>
+      <webElementGuid>2979e476-5373-4d5f-a689-65295fbcb120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://192.168.29.42/SentralParam/biaya-admin']</value>
+      <webElementGuid>d2bc648f-e61d-4205-884f-6264613ff644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>a8adb371-dea5-4acd-9d90-211af64c8ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://192.168.29.42/SentralParam/biaya-admin' and (text() = 'Insert Biaya Admin' or . = 'Insert Biaya Admin')]</value>
+      <webElementGuid>f2d52de8-a6e6-44f3-a560-bbe0382b4a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

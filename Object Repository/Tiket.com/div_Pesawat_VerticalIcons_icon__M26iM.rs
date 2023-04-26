@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pesawat_VerticalIcons_icon__M26iM</name>
+   <tag></tag>
+   <elementGuidId>92a46ef9-c8ce-4e82-9d25-569f83905a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div[2]/header/div/div[5]/div[2]/div/div/ul/li[2]/a/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71bf8c49-784b-4911-b7a0-59db9a5d8a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VerticalIcons_icon__M26iM</value>
+      <webElementGuid>797dd34c-4717-4c31-8f81-7073af368a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;index_main___rT19&quot;]/header[@class=&quot;index_header__25ySr&quot;]/div[@class=&quot;index_header_inner__ZgIbg&quot;]/div[@class=&quot;index_content__k_CP2 index_desktop_only__ss43k&quot;]/div[@class=&quot;SearchForm_verticalIcons__7QwNj&quot;]/div[@class=&quot;VerticalIcons_listIcon__rGlIP&quot;]/div[@class=&quot;VerticalIcons_wrapper__4jHIR&quot;]/ul[@class=&quot;VerticalIcons_lastGrid__93rXJ&quot;]/li[2]/a[1]/div[@class=&quot;VerticalIcons_icon__M26iM&quot;]</value>
+      <webElementGuid>9c4c705c-2c8f-4e2c-8926-6228093f62cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/header/div/div[4]/div[2]/div/div/ul/li[2]/a/div</value>
+      <webElementGuid>333b7ad5-de0a-4b90-a32a-f69214f4a978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesawat'])[2]/following::div[1]</value>
+      <webElementGuid>b74686ed-3ef7-4cc8-8d5a-45aaaf42986f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivitas di Bali'])[2]/following::div[6]</value>
+      <webElementGuid>615d64a3-e9c3-41c8-88c6-f6c1cd15007d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotel'])[2]/preceding::div[1]</value>
+      <webElementGuid>6acd74e1-b393-4a9f-88c8-af0e9e0d2648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[2]/preceding::div[3]</value>
+      <webElementGuid>3dcddb4f-20c5-47e8-b882-db24ab3f8c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>f24a55ce-b532-40af-b4e7-ef738775a74b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
